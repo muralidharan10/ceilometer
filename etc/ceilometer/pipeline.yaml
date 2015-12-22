@@ -33,7 +33,6 @@ sources:
           - "network.incoming.packets"
           - "network.outgoing.bytes"
           - "network.outgoing.packets"
-          - "ip.floating"
       sinks:
           - network_sink
 sinks:
